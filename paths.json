@@ -1,0 +1,10 @@
+{
+    "":"getReceived.html",
+    "/":"getReceived.html",
+    "/login":"login.html",
+    "/signup":"signup.html",
+    "/account":"account.html",
+    "/account/<name>":"account.html",
+    "/Desktop_attempt":"../../Desktop/local.html",
+    "/namoura":"namoura.html"
+}
